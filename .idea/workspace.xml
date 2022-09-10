@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a74f65-83b1-41d0-8b0f-f7f999d307bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/RestServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/controller/ExerciseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/dto/ExerciseCommand.java" afterDir="false" />
+    <list default="true" id="42a74f65-83b1-41d0-8b0f-f7f999d307bf" name="Changes" comment="3 input fields">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/controller/CalcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/dto/CalcCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/controller/ExerciseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mariia/restservice/controller/ExerciseController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/margo/Projects/ExercisesSpring",
+    "last_opened_file_path": "C:/Users/margo/Projects/MentalMath",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,7 +92,17 @@
       <option name="presentableId" value="Default" />
       <updated>1662539820208</updated>
       <workItem from="1662649109025" duration="2492000" />
+      <workItem from="1662693635241" duration="6536000" />
+      <workItem from="1662719411839" duration="15103000" />
     </task>
+    <task id="LOCAL-00001" summary="3 input fields">
+      <created>1662693932739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662693932739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 input fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 input fields" />
   </component>
 </project>

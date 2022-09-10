@@ -28,6 +28,4 @@ public class ExerciseController {
         log.info("List {}", exerciseCommandList);
         return exerciseCommandList;
     }
-
-
 }
